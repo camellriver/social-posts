@@ -1,1 +1,1 @@
-# 3.2.2
+# Comp Sci Essentials: Activity 3.2.2
