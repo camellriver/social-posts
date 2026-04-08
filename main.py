@@ -47,7 +47,7 @@ while user_input != "quit":
         for post in all_posts_archive:
             print (post)
     # code to inform the user that their input was not valid here
-    else
+    else:
         print("please choose a valid option")
     # code that will allow the user to make a new selection
     # This code will finish the loop
